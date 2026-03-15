@@ -61,7 +61,8 @@ Bot ini berfokus pada **maksimasi keuntungan ekonomi dan sumber daya (*chips*)**
     ```
 3. **Kompilasi Bot:** Jalankan perintah *build* berikut untuk mengompilasi kode bot:
     ```bash
-    ./gradlew buildcd client
+    ./gradlew build
+    cd client
     ```
 4. **Jalankan Aplikasi Klien (Simulasi Pertandingan):** Setelah kompilasi berhasil, aplikasi klien Battlecode dapat dijalankan.
     *   Silakan *run* aplikasi tersebut.
