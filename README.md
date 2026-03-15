@@ -11,9 +11,9 @@
 3. **Dzakwan** Muhammad Khairan Putra Purnama (NIM: 13524145)
 ---
 
-## Deskripsi Proyek
+## Deskripsi Tugas
 
-Proyek ini merupakan pengembangan tiga bot strategi untuk permainan **Battlecode 2025**, sebuah kompetisi *Real-Time Strategy* (RTS) berbasis kecerdasan buatan. Bot dirancang untuk beroperasi secara otonom di peta dua dimensi dengan tujuan utama **menguasai lebih dari 70% wilayah peta** atau **menghancurkan seluruh unit lawan**.
+Tugas ini merupakan pengembangan tiga bot strategi untuk permainan **Battlecode 2025**, sebuah kompetisi *Real-Time Strategy* (RTS) berbasis kecerdasan buatan. Bot dirancang untuk beroperasi secara otonom di peta dua dimensi dengan tujuan utama **menguasai lebih dari 70% wilayah peta** atau **menghancurkan seluruh unit lawan**.
 
 Fokus utama pengembangan adalah implementasi dan analisis pendekatan **Algoritma *Greedy***, yang krusial untuk pengambilan keputusan cepat (*local optimum*) dalam keterbatasan sumber daya komputasi (batas *bytecode*/waktu) pada setiap giliran permainan.
 
