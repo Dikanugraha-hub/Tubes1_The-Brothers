@@ -6,7 +6,7 @@ import java.util.Random;
  * RobotPlayer - Bot Alternative-2 (Resource Specialist)
  * 
  * Fokus: maksimalin ekonomi tim dengan Algoritma Greedy.
- * Strategi Saya - (Perancang: Dzakwan MKPP - 13524145)
+ * Strategi - (Perancang: Dzakwan MKPP - 13524145)
  *   1. Greedy SRP  -> cari ruins terdekat, mark pola 5x5, complete resource pattern
  *   2. Greedy Upgrade Tower -> fallback kalau ga ada SRP, upgrade menara tim ke Level 3
  *   3. Paint Management -> kalau cat hampir habis, balik ke menara terdekat buat isi ulang
