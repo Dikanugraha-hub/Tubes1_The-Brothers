@@ -57,4 +57,4 @@ Bot ini berfokus pada **maksimasi keuntungan ekonomi dan sumber daya (*chips*)**
 1. **Prasyarat:** Pastikan Anda memiliki Java Development Kit (JDK) terinstal pada sistem Anda.
 2. **Klona Repositori:** Klon repositori ini ke mesin lokal Anda.
 3. **Kompilasi Bot:** Kompilasi kode bot Java Anda menggunakan *tool* yang disediakan oleh platform Battlecode.
-4. **Jalankan Pertandingan:** Unggah
+4. **Jalankan Pertandingan (Simulasi):** Unggah *bytecode* bot yang telah terkompilasi ke lingkungan simulasi permainan Battlecode. Pada tahap ini, bot akan dijalankan secara otonom dan akan mengimplementasikan strategi Greedy yang telah diprogram pada setiap giliran permainan.
