@@ -1,4 +1,4 @@
-package testUtama;
+package main_bot;
 
 import battlecode.common.Clock;
 import battlecode.common.Direction;
