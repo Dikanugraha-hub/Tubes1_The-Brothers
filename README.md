@@ -55,6 +55,14 @@ Bot ini berfokus pada **maksimasi keuntungan ekonomi dan sumber daya (*chips*)**
 ## Instalasi dan Penggunaan
 
 1. **Prasyarat:** Pastikan Anda memiliki Java Development Kit (JDK) terinstal pada sistem Anda.
-2. **Klona Repositori:** Klon repositori ini ke mesin lokal Anda.
-3. **Kompilasi Bot:** Kompilasi kode bot Java Anda menggunakan *tool* yang disediakan oleh platform Battlecode.
-4. **Jalankan Pertandingan (Simulasi):** Unggah *bytecode* bot yang telah terkompilasi ke lingkungan simulasi permainan Battlecode. Pada tahap ini, bot akan dijalankan secara otonom dan akan mengimplementasikan strategi Greedy yang telah diprogram pada setiap giliran permainan.
+2. **Klona Repositori dan Setup:** Klona repositori yang disediakan asisten dengan perintah berikut. Bot akan dikembangkan di dalam direktori **`STIMA-battle`**.
+    ```bash
+    git clone [https://github.com/Fariz36/STIMA-battlecd](https://github.com/Fariz36/STIMA-battlecd) STIMA-battle
+    ```
+3. **Kompilasi Bot:** Jalankan perintah *build* berikut untuk mengompilasi kode bot:
+    ```bash
+    ./gradlew buildcd client
+    ```
+4. **Jalankan Aplikasi Klien (Simulasi Pertandingan):** Setelah kompilasi berhasil, aplikasi klien Battlecode dapat dijalankan.
+    *   Silakan *run* aplikasi tersebut.
+    *   Saat menjalankan pertandingan di aplikasi, pilihlah direktori **`STIMA-battle`** sebagai *directory root* (bukan `STIMA-battle/src`) agar bot
